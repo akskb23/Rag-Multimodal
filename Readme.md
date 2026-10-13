@@ -61,3 +61,7 @@ streamlit run app.py
 6. LLM generates answer using context
 
 ---
+
+## Live Demo
+You can view the live application here: [Launch Streamlit App](https://rag-multimodal-r2paamuslvg52fkbdpduka.streamlit.app)
+
